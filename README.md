@@ -17,47 +17,47 @@ I am a professional Minecraft Bedrock coder, experienced in most aspects of the 
 ### Entities
 ------
 
-Dragon entity
+**Dragon entity**
 
 Uses custom flight controls and custom attacks
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/u52ejt" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-Bucketable entities
+**Bucketable entities**
 
 Works with varaints, allowing players to transfer entities.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.382%;"><iframe src="https://streamable.com/e/50h2sh" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-Use of obscure components suck as `minecraft:lookat`
+**Use of obscure components suck as `minecraft:lookat`**
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/k3g4gh" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-Custom death animation
+**Custom death animation**
 
 Uses a different animation when the entity dies.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/sykddn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-Custom charge attack
+**Custom charge attack**
 
 The vanilla goat ram attack was not functional, so I made my own.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/sykddn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-Entities dragging players
+**Entities dragging players**
 
 Can be used for an entity picking up the player as well.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.223%;"><iframe src="https://streamable.com/e/gsmlm3" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-Unique damage system
+**Unique damage system**
 
 Allows certain areas of the entites make it instantly die.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/5bu18z" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-Immobile/Block-like entites
+**Immobile/Block-like entites**
 
 Works similar to blocks.
 
@@ -66,7 +66,7 @@ Works similar to blocks.
 Summons sheep on an interval
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://streamable.com/e/fbktya" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-Unique entity behavior
+**Unique entity behavior**
 
 The entity path finds to the house block and "goes inside" at night and leaves during the day.
 
@@ -75,32 +75,31 @@ The entity path finds to the house block and "goes inside" at night and leaves d
 ### Attachables
 ------
 
-1. Mermaid Tails
+**Mermaid Tails**
 
 Allows players to swim faster
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/x1drdr" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-2. Medusa Tail
+---
+**Medusa Tail**
 
 Allows players to move faster, allows provides effect bonus.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.395%;"><iframe src="https://streamable.com/e/wwrdb6" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-3. Wings
+---
+**Wings**
 
 Allows players to fly.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.395%;"><iframe src="https://streamable.com/e/q5xvxr" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-4. Armor & 3D Weapons
+---
+**Armor & 3D Weapons**
 
 Using vanilla models
 ![image](https://user-images.githubusercontent.com/72647213/174641307-cfe4a0c4-0bba-4252-a6f8-e55fe901f714.png)
 
 Using custom models
 ![image](https://user-images.githubusercontent.com/72647213/174641631-617501a5-3ab8-4f8e-9688-54208e508970.png)
-
 
 ### Blocks
 ------
