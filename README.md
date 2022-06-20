@@ -111,6 +111,7 @@ Using custom models
 Naturally generating in the world
 ![image](https://user-images.githubusercontent.com/72647213/174642758-8c3be1ed-4b0a-431a-a760-afe5f6ea6732.png)
 ---
+
 **Interactable blocks**
 
 Showcases my knowledge of permutations and block events
@@ -125,6 +126,7 @@ Showcases my knowledge of permutations and block events
 Works will all vanilla tools and items
 ![image](https://user-images.githubusercontent.com/72647213/174642015-9dfd687b-1ce7-470f-9aa0-a2dbc6a242b3.png)
 ---
+
 **Unique items like wands**
 
 Showcases custom item lore and use effects
@@ -149,12 +151,14 @@ Structures in different dimensions
 Underground structures
 ![image](https://user-images.githubusercontent.com/72647213/174639895-842b7aac-aecd-4494-8b2e-21f4e55bde9a.png)
 ---
+
 **Modifying vanilla biomes**
 
 Modified Nether biomes
 ![x](https://user-images.githubusercontent.com/72647213/174639979-c36b1292-8b7b-4d0d-9547-036ff1684dc0.png)
 ![image](https://user-images.githubusercontent.com/72647213/174639992-488a7000-2fe7-4b8e-9ca6-bdf4f0342fe8.png)
 ---
+
 **Custom features**
 
 Custom geodes that work without crashes
