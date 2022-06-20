@@ -125,12 +125,13 @@ Showcases my knowledge of permutations and block events
 
 Works will all vanilla tools and items
 ![image](https://user-images.githubusercontent.com/72647213/174642015-9dfd687b-1ce7-470f-9aa0-a2dbc6a242b3.png)
----
 
+---
 **Unique items like wands**
 
 Showcases custom item lore and use effects
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.223%;"><iframe src="https://streamable.com/e/e3mije" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
 ---
 **Custom swords with effects**
 
@@ -150,15 +151,15 @@ Structures in different dimensions
 
 Underground structures
 ![image](https://user-images.githubusercontent.com/72647213/174639895-842b7aac-aecd-4494-8b2e-21f4e55bde9a.png)
----
 
+---
 **Modifying vanilla biomes**
 
 Modified Nether biomes
 ![x](https://user-images.githubusercontent.com/72647213/174639979-c36b1292-8b7b-4d0d-9547-036ff1684dc0.png)
 ![image](https://user-images.githubusercontent.com/72647213/174639992-488a7000-2fe7-4b8e-9ca6-bdf4f0342fe8.png)
----
 
+---
 **Custom features**
 
 Custom geodes that work without crashes
