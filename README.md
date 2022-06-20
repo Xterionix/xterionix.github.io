@@ -104,14 +104,14 @@ Using custom models
 ### Blocks
 ------
 
-1. Ores that work with fortune and silk touch and tools
+**Ores that work with fortune and silk touch and tools**
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.395%;"><iframe src="https://streamable.com/e/cbfgjk" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 Naturally generating in the world
 ![image](https://user-images.githubusercontent.com/72647213/174642758-8c3be1ed-4b0a-431a-a760-afe5f6ea6732.png)
-
-2. Interactable blocks
+---
+**Interactable blocks**
 
 Showcases my knowledge of permutations and block events
 
@@ -120,25 +120,25 @@ Showcases my knowledge of permutations and block events
 ### Items
 ------
 
-1. Tools
+**Tools**
 
 Works will all vanilla tools and items
 ![image](https://user-images.githubusercontent.com/72647213/174642015-9dfd687b-1ce7-470f-9aa0-a2dbc6a242b3.png)
-
-2. Unique items like wands
+---
+**Unique items like wands**
 
 Showcases custom item lore and use effects
-
-
-3. Custom swords with effects
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.223%;"><iframe src="https://streamable.com/e/e3mije" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+---
+**Custom swords with effects**
 
 Showcases hurt effects
-
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.223%;"><iframe src="https://streamable.com/e/xwbjw9" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ### World Gen
 ------
 
-1. Structures
+**Structures**
 
 Land structure
 ![image](https://user-images.githubusercontent.com/72647213/174639772-14b16ccf-0413-4baa-ba1c-c7113cd601c2.png)
@@ -148,14 +148,14 @@ Structures in different dimensions
 
 Underground structures
 ![image](https://user-images.githubusercontent.com/72647213/174639895-842b7aac-aecd-4494-8b2e-21f4e55bde9a.png)
-
-2. Modifying vanilla biomes
+---
+**Modifying vanilla biomes**
 
 Modified Nether biomes
 ![x](https://user-images.githubusercontent.com/72647213/174639979-c36b1292-8b7b-4d0d-9547-036ff1684dc0.png)
 ![image](https://user-images.githubusercontent.com/72647213/174639992-488a7000-2fe7-4b8e-9ca6-bdf4f0342fe8.png)
-
-3. Custom features
+---
+**Custom features**
 
 Custom geodes that work without crashes
 ![image](https://user-images.githubusercontent.com/72647213/174639312-40801f47-38d6-4d98-9fa3-bdeca9d75ad7.png)
