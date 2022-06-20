@@ -17,57 +17,56 @@ I am a professional Minecraft Bedrock coder, experienced in most aspects of the 
 ### Entities
 ------
 
-1. Dragon entity
+Dragon entity
 
 Uses custom flight controls and custom attacks
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/u52ejt" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-
-2. Bucketable entities
+---
+Bucketable entities
 
 Works with varaints, allowing players to transfer entities.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.382%;"><iframe src="https://streamable.com/e/50h2sh" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-
-3. Use of obscure components suck as `minecraft:lookat`
+---
+Use of obscure components suck as `minecraft:lookat`
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/k3g4gh" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-4. Custom death animation
+---
+Custom death animation
 
 Uses a different animation when the entity dies.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/sykddn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-5. Custom charge attack
+---
+Custom charge attack
 
 The vanilla goat ram attack was not functional, so I made my own.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/sykddn" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-6. Entities dragging players
+---
+Entities dragging players
 
 Can be used for an entity picking up the player as well.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.223%;"><iframe src="https://streamable.com/e/gsmlm3" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-7. Unique damage system
+---
+Unique damage system
 
 Allows certain areas of the entites make it instantly die.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/5bu18z" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-8. Immobile/Block-like entites
+---
+Immobile/Block-like entites
 
 Works similar to blocks.
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.395%;"><iframe src="https://streamable.com/e/ntayqp" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
+Summons sheep on an interval
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://streamable.com/e/fbktya" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
-
-9. Unique entity behavior
+---
+Unique entity behavior
 
 The entity path finds to the house block and "goes inside" at night and leaves during the day.
 
