@@ -110,9 +110,9 @@ Using custom models
 
 Naturally generating in the world
 ![image](https://user-images.githubusercontent.com/72647213/174642758-8c3be1ed-4b0a-431a-a760-afe5f6ea6732.png)
----
 
-**Interactable blocks**
+---
+**Interactable Blocks**
 
 Showcases my knowledge of permutations and block events
 
