@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+## Xterionix's Portfolio
 
-You can use the [editor on GitHub](https://github.com/InfectedTalentYT/xterionixmc.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a professional Minecraft coder, experienced in most aspects of the game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Entities
+- Items
+- Blocks
+- World Gen
+- Functions & Commands
+- Loot tables and trade tables
+- Recipes
+- Molang
+- Particles
 
-### Markdown
+### Videos of Addons
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dragon entity using custom attack and flight controls.
+
+https://user-images.githubusercontent.com/72647213/174632793-14566af7-3220-4485-9b8d-a334ef5ad165.mp4
+
+
 
 ```markdown
 Syntax highlighted code block
