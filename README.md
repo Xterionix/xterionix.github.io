@@ -13,7 +13,6 @@ I am a professional Minecraft Bedrock coder, experienced in most aspects of the 
 - Particles
 
 ## Videos of Addons
-======
 
 ### Entities
 ------
@@ -164,7 +163,6 @@ Custom geodes that work without crashes
 Custom flower generation
 ![image](https://user-images.githubusercontent.com/72647213/174639432-c6fd4401-3866-4e34-8b1f-ba4c097d4bc1.png)
 
-======
 
 ## Published Addons
 
@@ -176,7 +174,5 @@ Custom flower generation
 6. https://mcpedl.com/true-enderite/
 7. https://mcpedl.com/mystic-land-addon/
 8. https://mcpedl.com/pink-river-dolphins-addon/
-
-======
 
 If you have any more questions, message me on Discord `Xterionix#7500`
