@@ -17,6 +17,12 @@ I am a professional Minecraft Bedrock coder, experienced in most aspects of the 
 ### Entities
 ------
 
+**Entity Attacks**
+
+Allows entities to do attacks while being ridden by the player
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/x7f27q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+---
+
 **Stealing Items**
 
 Allows entites to steal items from the players, items can be filtered and a cooldown can be added
