@@ -115,6 +115,11 @@ Using custom models
 
 ### Blocks
 ------
+**Lockable Chests**
+
+Allows chests to be locked and unlocked
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://streamable.com/e/rhfvvd" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+---
 
 **Ores that work with fortune and silk touch and tools**
 
