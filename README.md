@@ -196,5 +196,8 @@ Custom flower generation
 6. https://mcpedl.com/true-enderite/
 7. https://mcpedl.com/mystic-land-addon/
 8. https://mcpedl.com/pink-river-dolphins-addon/
+9. https://mcpedl.com/domesticraft/
+10. https://mcpedl.com/dragonology-a-httyd-addon/
+11. https://mcpedl.com/ravemons-mob-addon/ ( Contributor )
 
 If you have any more questions, message me on Discord `Xterionix#7500`
