@@ -220,4 +220,4 @@ Custom flower generation
 11. https://mcpedl.com/pokeballs/
 12. https://mcpedl.com/ravemons-mob-addon/ ( Contributor )
 
-If you have any more questions, message me on Discord `Xterionix#7500`
+If you have any more questions, message me on Discord `Xterionix#0001`
