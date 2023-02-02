@@ -13,10 +13,24 @@ I am a professional Minecraft Bedrock coder, experienced in most aspects of the 
 - Molang
 - Particles
 
+## Videos of Addons
+
+### Scripting
+------
+
+**4 by 4 Crafting Table**
+
+Completely functional 4 by 4 crafting table that works similar to to vanilla other than the fact there is no recipe book.
 <iframe id="video" width="560" height="315" src="https://user-images.githubusercontent.com/72647213/208864485-f9c7154c-dbe4-43f0-a2eb-7c6998ba410c.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
+**Functional UIs**
 
-## Videos of Addons
+Completely functional ingame tile entity like system, supports various other foramts.
+<iframe id="video" width="560" height="315" src="https://user-images.githubusercontent.com/72647213/216349996-5de1f2d4-6a92-448d-a1b5-62516e5e9e8b.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+<iframe id="video" width="560" height="315" src="https://user-images.githubusercontent.com/72647213/216350270-27505fad-f7ef-4759-8b44-9752ca49f944.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+<iframe id="video" width="560" height="315" src="https://user-images.githubusercontent.com/72647213/216349996-5de1f2d4-6a92-448d-a1b5-62516e5e9e8b.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ### Entities
 ------
