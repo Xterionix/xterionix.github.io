@@ -37,6 +37,12 @@ Second Example
 Third Example
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/216356147-24323936-9f95-4424-908c-fa1ae3957712.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
+**Stealing Items from the Player**
+
+Allows entites to steal items from the players, items can be filtered and a cooldown can be added
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/227613957-41bb5d6a-fbbe-41a3-8a15-03c7fac4726f.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+
 ### Entities
 ------
 
@@ -44,13 +50,7 @@ Third Example
 
 Allows entities to do attacks while being ridden by the player
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/x7f27q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
----
 
-**Stealing Items**
-
-Allows entites to steal items from the players, items can be filtered and a cooldown can be added
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/fzzsha" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
 **Dragon entity**
 
@@ -62,7 +62,11 @@ Uses custom flight controls and custom attacks
 
 Works with varaints, allowing players to transfer entities.
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.382%;"><iframe src="https://streamable.com/e/50h2sh" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.382%;"><iframe src="https://user-images.githubusercontent.com/72647213/227613721-6df5f15a-3784-435e-ade3-a3f76a10950f.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Example 2
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.382%;"><iframe src="https://user-images.githubusercontent.com/72647213/227613721-6df5f15a-3784-435e-ade3-a3f76a10950f.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
 **Use of obscure components such as `minecraft:lookat`**
 
