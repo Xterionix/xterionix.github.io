@@ -24,6 +24,12 @@ Completely working 4x4 crafting table that can be expanded to 5x5 or even 3x4
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/208864485-f9c7154c-dbe4-43f0-a2eb-7c6998ba410c.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
 
+**Custom Portal**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/4195b0d6-8d45-413c-9ef8-a33b5f45a325" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+
 **Functional UIs**
 
 Completely functional ingame tile entity like system, supports various other foramts.
@@ -51,6 +57,18 @@ Allows entites to steal items from the chests, items can be filtered and a coold
 
 ---
 
+**Custom Shulker Boxes**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/8ad52021-fa2b-44dc-81bf-e0a392133f9d" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+
+**Encylopedia**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/49565eba-17f4-4188-8397-f89f528c21da" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+
 ### Entities
 ------
 
@@ -58,6 +76,11 @@ Allows entites to steal items from the chests, items can be filtered and a coold
 
 Allows entities to do attacks while being ridden by the player
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/x7f27q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+**Temperature and Thirst System**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/f27aca30-5413-4763-aade-4fc10e83bd3d" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 **Dragon entity**
