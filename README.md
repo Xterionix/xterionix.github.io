@@ -342,6 +342,8 @@ Example #3 - Custom flower generation
 9. https://mcpedl.com/domesticraft/
 10. https://mcpedl.com/dragonology-a-httyd-addon/
 11. https://mcpedl.com/pokeballs/
-12. https://mcpedl.com/ravemons-mob-addon/ ( Contributor )
-
-If you have any more questions, message me on Discord `Xterionix#0001`
+12. https://mcpedl.com/flourishing-fauna/
+13. https://mcpedl.com/ravemons-mob-addon/ ( Contributor )
+14. https://mcpedl.com/spry-conquest-addon/ ( Contributor )
+15. https://mcpedl.com/mesozoic-biology-addon/ ( Contributor )
+16. https://mcpedl.com/the-lost-world/ ( Contributor )
