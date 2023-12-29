@@ -34,14 +34,18 @@ Completely working 4x4 crafting table that can be expanded to 5x5 or even 3x4
 
 Completely functional ingame tile entity like system, supports various other foramts.
 
-First Example
+Example #1 -
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/216349996-5de1f2d4-6a92-448d-a1b5-62516e5e9e8b.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
-Second Example
+Example #2 -
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/216350270-27505fad-f7ef-4759-8b44-9752ca49f944.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
-Third Example
+Example #3 -
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://user-images.githubusercontent.com/72647213/216356147-24323936-9f95-4424-908c-fa1ae3957712.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Example #4 -
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/d268e7b5-a538-48dc-bbc2-8ee1c60b535a" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 **Stealing Items from the Player**
@@ -63,19 +67,55 @@ Allows entites to steal items from the chests, items can be filtered and a coold
 
 ---
 
+**Car Fuelling System**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/f9d79ede-df40-4add-9648-37877cafd9b1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+
 **Encylopedia**
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/49565eba-17f4-4188-8397-f89f528c21da" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/c44d904f-f94a-4c0c-89ba-02fc9ce05c60" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+
+**Cosmetic Menu**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/a964df8c-ee6a-4323-9442-a60036049e03" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+
+**Pokeballs**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/e7d35ff9-3cf2-4389-99ee-217aa99e3c1e" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 
 ### Entities
 ------
 
-**Entity Attacks**
+**Unique Entity Behaviors**
 
-Allows entities to do attacks while being ridden by the player
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/x7f27q" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+Example #1 - Mating dances that can spawn a child
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/b88d58f6-d8a9-434f-8123-799a6ca0edb9" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Example #2 - The entity path finds to the house block and "goes inside" at night and leaves during the day.
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/ec325b3d-f923-4939-8f4e-8d06dfaae707" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Example #3 - Secondary attack that deals more damage
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/8205f054-aa86-4de3-8853-112138847add" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Example #4 - Stalking behavior
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/399272fa-1336-42e7-85cb-1e6b15b5f481" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Example #5 - Move towards block and break
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/26e4ef22-11da-4f38-bba4-07a33add8191" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
 **Temperature and Thirst System**
@@ -87,17 +127,42 @@ Allows entities to do attacks while being ridden by the player
 
 Uses custom flight controls and custom attacks
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/u52ejt" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/28ac6ea8-a4d3-4608-99aa-0e6ec36723f8" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/645d3a77-084d-41ed-a764-4a6b1ba28920" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+**Vehicle**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/a3f06166-1fca-484d-9999-53b3642fd911" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+**Mounts**
+
+Example #1 - Flying Mount
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/db42c1af-064f-4fa6-bbd9-0f30aca6b763" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Example #2 - Underwater Mount
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/779c6fa2-6c71-44e2-ad6e-6e244317210b" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
 ---
 **Bucketable entities**
 
 Works with varaints, allowing players to transfer entities.
 
+Example #1 - Basic case
+
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.382%;"><iframe src="https://user-images.githubusercontent.com/72647213/227613721-6df5f15a-3784-435e-ade3-a3f76a10950f.mp4" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+Example #2 - More complex
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/1f425a09-59e0-4d52-be00-2f50db7c0890" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
 ---
 **Use of obscure components such as `minecraft:lookat`**
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.962%;"><iframe src="https://streamable.com/e/k3g4gh" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/a8683e0b-125f-467d-a6bd-e1e9d4558e2b" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
 ---
 **Custom death animation**
 
@@ -132,11 +197,6 @@ Works similar to blocks.
 Summons sheep on an interval
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://streamable.com/e/fbktya" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 ---
-**Unique entity behavior**
-
-The entity path finds to the house block and "goes inside" at night and leaves during the day.
-
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://streamable.com/e/d5kvvq" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ### Attachables
 ------
@@ -161,14 +221,33 @@ Allows players to fly.
 ---
 **Armor & 3D Weapons**
 
-Using vanilla models
+Example #1 - Using vanilla models
 ![image](https://user-images.githubusercontent.com/72647213/174641307-cfe4a0c4-0bba-4252-a6f8-e55fe901f714.png)
 
-Using custom models
+Example #2 - Using custom models
 ![image](https://user-images.githubusercontent.com/72647213/174641631-617501a5-3ab8-4f8e-9688-54208e508970.png)
+
+Example #3 - With abilities
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/9c7be898-d1bf-45e3-892c-44dff4c1bc76" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ### Blocks
 ------
+**Flipbook Textures**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/5ea346ec-8e9f-4ac9-9d01-86929af15f03" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+**Block Functionality**
+
+Allows chests to be locked and unlocked
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/df1d3dbb-2dea-4992-b79e-fe23d0d1b2b3" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+**Growing Vines**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/fe742fd1-665b-44d8-a212-ba2349a79d59" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
 **Lockable Chests**
 
 Allows chests to be locked and unlocked
@@ -179,15 +258,24 @@ Allows chests to be locked and unlocked
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.395%;"><iframe src="https://streamable.com/e/cbfgjk" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
-Naturally generating in the world
-![image](https://user-images.githubusercontent.com/72647213/174642758-8c3be1ed-4b0a-431a-a760-afe5f6ea6732.png)
-
 ---
 **Interactable Blocks**
 
 Showcases my knowledge of permutations and block events
 
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.977%;"><iframe src="https://streamable.com/e/jf1eob" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+
+**Custom Doors**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.395%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/3af79004-c227-4ad7-bf2f-5952a8d78199" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+---
+
+**Multi-Blocks**
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.395%;"><iframe src="https://github.com/Xterionix/xterionix.github.io/assets/72647213/f40f5fe1-66a8-4467-9d27-9441a0ff69cf" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ### Items
 ------
@@ -204,7 +292,7 @@ Showcases custom item lore and use effects
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.223%;"><iframe src="https://streamable.com/e/e3mije" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 ---
-**Custom swords with effects**
+**Custom swords with Effects**
 
 Showcases hurt effects
 <div style="width:100%;height:0px;position:relative;padding-bottom:56.223%;"><iframe src="https://streamable.com/e/xwbjw9" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
@@ -214,13 +302,13 @@ Showcases hurt effects
 
 **Structures**
 
-Land structure
+Example #1 - Land structure
 ![image](https://user-images.githubusercontent.com/72647213/174639772-14b16ccf-0413-4baa-ba1c-c7113cd601c2.png)
 
-Structures in different dimensions
+Example #2 - Structures in different dimensions
 ![image](https://user-images.githubusercontent.com/72647213/174639851-d7780498-8794-44f8-b240-9f01181e813d.png)
 
-Underground structures
+Example #3 - Underground structures
 ![image](https://user-images.githubusercontent.com/72647213/174639895-842b7aac-aecd-4494-8b2e-21f4e55bde9a.png)
 
 ---
@@ -233,10 +321,11 @@ Modified Nether biomes
 ---
 **Custom features**
 
-Custom geodes that work without crashes
+Example #1 - Ores
+![image](https://user-images.githubusercontent.com/72647213/174642758-8c3be1ed-4b0a-431a-a760-afe5f6ea6732.png)
+Example #2 - Custom geodes that work without crashes
 ![image](https://user-images.githubusercontent.com/72647213/174639312-40801f47-38d6-4d98-9fa3-bdeca9d75ad7.png)
-
-Custom flower generation
+Example #3 - Custom flower generation
 ![image](https://user-images.githubusercontent.com/72647213/174639432-c6fd4401-3866-4e34-8b1f-ba4c097d4bc1.png)
 
 
