@@ -328,6 +328,9 @@ Example #2 - Custom geodes that work without crashes
 Example #3 - Custom flower generation
 ![image](https://user-images.githubusercontent.com/72647213/174639432-c6fd4401-3866-4e34-8b1f-ba4c097d4bc1.png)
 
+## Marketplace Work
+
+1. [Claws](https://www.minecraft.net/en-us/marketplace/pdp?id=f1a0c6b6-8499-429e-b4b6-0d5e1f16f3f3)
 
 ## Published Addons
 
