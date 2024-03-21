@@ -331,6 +331,7 @@ Example #3 - Custom flower generation
 ## Marketplace Work
 
 1. [Claws](https://www.minecraft.net/en-us/marketplace/pdp?id=f1a0c6b6-8499-429e-b4b6-0d5e1f16f3f3)
+2. [World Utilities Add-On](https://www.minecraft.net/en-us/marketplace/pdp?id=cd927ddf-5334-4b9a-8be4-b2cd0c57004f)
 
 ## Published Addons
 
