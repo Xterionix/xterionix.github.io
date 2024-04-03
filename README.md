@@ -338,16 +338,15 @@ Example #3 - Custom flower generation
 1. https://mcpedl.com/prehistoric-animalia-addon/
 2. https://mcpedl.com/prehistoric-vanilla/
 3. https://mcpedl.com/tamable-foxes-addon/
-4. https://mcpedl.com/more-mob-variants-addon-1/
-5. https://mcpedl.com/structura/
-6. https://mcpedl.com/true-enderite/
-7. https://mcpedl.com/mystic-land-addon/
-8. https://mcpedl.com/pink-river-dolphins-addon/
-9. https://mcpedl.com/domesticraft/
-10. https://mcpedl.com/dragonology-a-httyd-addon/
-11. https://mcpedl.com/pokeballs/
-12. https://mcpedl.com/flourishing-fauna/
-13. https://mcpedl.com/ravemons-mob-addon/ ( Contributor )
-14. https://mcpedl.com/spry-conquest-addon/ ( Contributor )
-15. https://mcpedl.com/mesozoic-biology-addon/ ( Contributor )
-16. https://mcpedl.com/the-lost-world/ ( Contributor )
+4. https://mcpedl.com/structura/
+5. https://mcpedl.com/true-enderite/
+6. https://mcpedl.com/mystic-land-addon/
+7. https://mcpedl.com/pink-river-dolphins-addon/
+8. https://mcpedl.com/domesticraft/
+9. https://mcpedl.com/dragonology-a-httyd-addon/
+10. https://mcpedl.com/pokeballs/
+11. https://mcpedl.com/flourishing-fauna/
+12. https://mcpedl.com/ravemons-mob-addon/ ( Contributor )
+13. https://mcpedl.com/spry-conquest-addon/ ( Contributor )
+14. https://mcpedl.com/mesozoic-biology-addon/ ( Contributor )
+15. https://mcpedl.com/the-lost-world/ ( Contributor )
