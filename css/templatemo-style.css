@@ -747,19 +747,6 @@ select:not([multiple]) {
     background-color: #009999;
 }
 
-.form-control,
-input:-internal-autofill-selected,
-select:not([multiple]) {
-    color: #009999 !important;
-}
-
-.form-control::placeholder {
-    /* Chrome, Firefox, Opera, Safari 10.1+ */
-    color: #009999;
-    opacity: 1;
-    /* Firefox */
-}
-
 @media (max-width: 991px) {
     .navbar-collapse {
         position: fixed;
