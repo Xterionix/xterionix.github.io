@@ -3,8 +3,8 @@ name: Build HTML
 on:
   push:
     paths:
-      - build/data.js
-      - build/build.js
+      - scripts/data.js
+      - scripts/build.js
       - index.html 
 
 jobs:
