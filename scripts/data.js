@@ -81,5 +81,14 @@ export const data = [
       { title: "", type: "image", src: "https://api.mcpedl.com/storage/submissions/73089/112/20220527113053_1-520x245.png", link: "https://mcpedl.com/ravemons-mob-addon/", layout: "alternate", subtitle: "Contributor" },
       { title: "", type: "image", src: "https://api.mcpedl.com/storage/submissions/103952/100/image_1-520x245.png", link: "https://mcpedl.com/the-lost-world/", layout: "alternate", subtitle: "Contributor" }
     ]
+  },
+  {
+    id: 'other-work',
+    title: 'Other Work',
+    entries: [
+      { title: "", type: "image", src: "https://img.youtube.com/vi/76YFH1yhLk4/maxresdefault.jpg", link: "https://www.youtube.com/watch?v=76YFH1yhLk4", layout: "alternate", subtitle: "Sandworm Only" },
+      { title: "", type: "image", src: "https://img.youtube.com/vi/5MciOwwRfRY/maxresdefault.jpg", link: "https://www.youtube.com/watch?v=5MciOwwRfRY", layout: "alternate", subtitle: "Mob 2, 3 & 4" },
+      { title: "", type: "image", src: "https://img.youtube.com/vi/WMsNBbthdfY/maxresdefault.jpg", link: "https://www.youtube.com/watch?v=WMsNBbthdfY", layout: "alternate", subtitle: "Flying Vehicles, Soldier & Gun" }
+    ]
   }
 ]
