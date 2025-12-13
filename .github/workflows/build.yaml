@@ -6,6 +6,7 @@ on:
       - scripts/data.js
       - scripts/build.js
       - index.html 
+  workflow_dispatch:
 
 jobs:
   build:
