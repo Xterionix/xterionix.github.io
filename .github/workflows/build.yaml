@@ -23,6 +23,7 @@ jobs:
         working-directory: scripts
 
       - run: node scripts/build.js
+        working-directory: scripts
 
       - name: Commit built HTML
         run: |
