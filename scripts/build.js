@@ -1,15 +1,32 @@
 import { data } from './data.js';
 import fs from 'fs';
+import prettier from 'prettier';
 
 let html = fs.readFileSync('../index.html').toString();
+let galleries = '<!-- gallery-start -->\n';
 
 data.forEach(gallery => {
-    const result = `<!-- ${gallery.id} -->\n<div class="row tm-mb-30 tm-gallery ${gallery.id}">` + gallery.entries.map(entry => renderGalleryItem(entry)).join('') + `<!-- ${gallery.id} -->\n</div>`;
-    const regex = new RegExp(`<!-- ${gallery.id}[\\s\\S]*?<!-- ${gallery.id} -->`);
-    html = html.replace(regex, result)
+    galleries += renderGallery(gallery.title, gallery.id, gallery.entries.map(entry => renderGalleryItem(entry)).join(''));
 })
 
+galleries += '\n<!-- gallery-end -->';
+html = html.replace(/<!-- gallery-start -->[\s\S]*?<!-- gallery-end -->/, galleries)
+html = await prettier.format(html, { parser: 'html', htmlWhitespaceSensitivity: 'ignore', printWidth: 1000 })
+
 fs.writeFileSync('../index.html', html)
+
+function renderGallery(title, id, content) {
+    return `<div class="container-fluid">
+        <div class="row mb-4">
+            <h2 class="col-6">
+                ${title}
+            </h2>
+        </div>
+        <div class="row tm-mb-30 tm-gallery" id="${id}">
+            ${content}
+        </div>
+    </div>`
+}
 
 function renderGalleryItem(item) {
     const credit = item.credit ? " credit-creeper" : "";

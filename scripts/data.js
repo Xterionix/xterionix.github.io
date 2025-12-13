@@ -1,6 +1,7 @@
 export const data = [
   {
     id: 'main-gallery',
+    title: 'Latest Work',
     entries: [
       { id: "crafting-table", title: "4x4 Crafting Table", type: "video", src: "4x Crafting Table.mp4", poster: "4x Crafting Table.png", tags: "scripts,blocks", credit: true },
       { title: "Portal", type: "video", src: "Portal.mp4", poster: "Portal.png", tags: "scripts", credit: false },
@@ -51,6 +52,7 @@ export const data = [
   },
   {
     id: 'marketplace-gallery',
+    title: 'Marketplace Work',
     entries: [
       { title: "", type: "image", src: "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/92ddc25c-2842-4548-9b8f-8eecbbc7cca7/FantacyWeapons_Thumbnail_0.jpg", link: "https://www.minecraft.net/en-us/marketplace/pdp?id=64af0338-b643-4a99-ad36-ebfb263942b1", layout: "alternate", subtitle: "Bug fixes only" },
       { title: "", type: "image", src: "https://xforgeassets002.xboxlive.com/pf-namespace-b63a0803d3653643/19c4bacb-d92f-4f97-ad9f-6b1a1edf74b4/CLAWS_Thumbnail_0.jpg", link: "https://www.minecraft.net/en-us/marketplace/pdp?id=f1a0c6b6-8499-429e-b4b6-0d5e1f16f3f3", layout: "center", subtitle: null },
@@ -62,6 +64,7 @@ export const data = [
   },
   {
     id: 'published-gallery',
+    title: 'Published Addons',
     entries: [
       { title: "Prehistoric Animalia", type: "image", src: "https://api.mcpedl.com/storage/submissions/76952/105/pa2_1-520x245.png", link: "https://mcpedl.com/prehistoric-animalia-addon/", layout: "center", subtitle: null },
       { title: "", type: "image", src: "https://api.mcpedl.com/storage/submissions/87252/102/pv3_1-520x245.png", link: "https://mcpedl.com/prehistoric-vanilla/", layout: "center", subtitle: null },
