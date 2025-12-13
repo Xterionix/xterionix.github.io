@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add index.html
-          git diff --quiet || git commit -m "Auto-build index.html"
+          git add -A
+          git commit -m "Auto-build index.html" || echo "No changes to commit"
           git push
