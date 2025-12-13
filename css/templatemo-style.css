@@ -830,7 +830,7 @@ select:not([multiple]) {
     }
 }
 
-.main-gallery figcaption {
+#main-gallery figcaption {
     pointer-events: none;
 }
 
