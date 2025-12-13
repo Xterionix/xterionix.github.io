@@ -25,6 +25,8 @@ jobs:
       - run: node build.js
         working-directory: scripts
 
+      - run: git diff index.html
+
       - name: Commit built HTML
         run: |
           git config user.name "github-actions"
