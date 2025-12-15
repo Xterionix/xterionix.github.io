@@ -67,7 +67,7 @@ export const data = [
     title: 'Published Addons',
     entries: [
       { title: "", type: "image", src: "https://media.forgecdn.net/attachments/1423/983/mcpedl-png.png", link: "https://mcpedl.com/prehistoric-animalia-addon/", layout: "center", subtitle: null },
-      { title: "", type: "image", src: "https://api.mcpedl.com/storage/submissions/87252/102/pv3_1-520x245.png", link: "https://mcpedl.com/prehistoric-vanilla/", layout: "center", subtitle: null },
+      { title: "Prehistoric V", type: "image", src: "https://media.forgecdn.net/attachments/1407/305/mcpedl-png.png", link: "https://mcpedl.com/prehistoric-vanilla/", layout: "center", subtitle: null },
       { title: "", type: "image", src: "https://mcpedl.com/wp-content/uploads/2021/02/tamable-foxes_1.png", link: "https://mcpedl.com/tamable-foxes-addon/", layout: "center", subtitle: null },
       { title: "", type: "image", src: "https://media.forgecdn.net/attachments/875/548/mcpedl.png", link: "https://mcpedl.com/true-enderite/", layout: "center", subtitle: null },
       { title: "", type: "image", src: "https://api.mcpedl.com/storage/submissions/33780/102/page_1-520x245.png", link: "https://mcpedl.com/pink-river-dolphins-addon/", layout: "center", subtitle: null },
