@@ -66,7 +66,7 @@ export const data = [
     id: 'published-gallery',
     title: 'Published Addons',
     entries: [
-      { title: "Prehistoric Animalia", type: "image", src: "https://api.mcpedl.com/storage/submissions/76952/105/pa2_1-520x245.png", link: "https://mcpedl.com/prehistoric-animalia-addon/", layout: "center", subtitle: null },
+      { title: "", type: "image", src: "https://media.forgecdn.net/attachments/1423/983/mcpedl-png.png", link: "https://mcpedl.com/prehistoric-animalia-addon/", layout: "center", subtitle: null },
       { title: "", type: "image", src: "https://api.mcpedl.com/storage/submissions/87252/102/pv3_1-520x245.png", link: "https://mcpedl.com/prehistoric-vanilla/", layout: "center", subtitle: null },
       { title: "", type: "image", src: "https://mcpedl.com/wp-content/uploads/2021/02/tamable-foxes_1.png", link: "https://mcpedl.com/tamable-foxes-addon/", layout: "center", subtitle: null },
       { title: "", type: "image", src: "https://media.forgecdn.net/attachments/875/548/mcpedl.png", link: "https://mcpedl.com/true-enderite/", layout: "center", subtitle: null },
